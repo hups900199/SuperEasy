@@ -1,0 +1,59 @@
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.exe.config
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.exe
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.pdb
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.Properties.Resources.resources
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.exe
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.pdb
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.RRC_Automotive_Group.resources
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.About_RRC_Automotive_Group.resources
+C:\Users\User\source\repos\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.Vehicle_Sales_Quote.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.exe.config
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.exe
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.pdb
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGLibrary.xml
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csprojAssemblyReference.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.Properties.Resources.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.GenerateResource.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.CoreCompileInputs.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.CopyComplete
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.exe
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.pdb
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.AboutRRCAutomotiveGroup.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.RRCAutomotiveGroup.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 5 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.VehicleSalesQuote.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.exe.config
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.exe
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.pdb
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csprojAssemblyReference.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.Properties.Resources.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.GenerateResource.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.CoreCompileInputs.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.CopyComplete
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.exe
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.pdb
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.InvoiceForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.CarWashInvoiceForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.VehicleInformationForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.AboutRRCAutomotiveGroupForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.VehicleSalesQuoteForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.LauncherForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csprojAssemblyReference.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.AboutRRCAutomotiveGroupForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.CarWashInvoiceForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.InvoiceForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.Properties.Resources.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.LauncherForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.VehicleInformationForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.VehicleSalesQuoteForm.resources
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.GenerateResource.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.CoreCompileInputs.cache
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.exe.config
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.exe
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\bin\Debug\RRCAGJiaHongYe.pdb
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.csproj.CopyComplete
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.exe
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\Test\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.pdb
+D:\andy\Red River College\BIT term2\Programming 2\Module 6 Assignment\RRCAGAppJiaHongYe\RRCAGJiaHongYe\obj\Debug\RRCAGJiaHongYe.CarWashForm.resources
